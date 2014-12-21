@@ -1,0 +1,30 @@
+.failure-text .x-form-field {
+    background-color: red !important;
+    color: white !important;
+}
+.aborted-text .x-form-field {
+    background-color: yellow !important;
+    color: black !important;
+}
+.other-text .x-form-field {
+    background-color: green !important;
+    color: white !important;
+}
+.failure-button-text .x-btn-inner {
+    color: white !important;
+}
+.failure-button-text:hover {
+    background-color: #DB0000 !important;
+}
+.aborted-button-text .x-btn-inner {
+    color: black !important;
+}
+.aborted-button-text:hover {
+    background-color: #DBDB00 !important;
+}
+.other-button-text .x-btn-inner {
+    color: white !important;
+}
+.other-button-text:hover {
+    background-color: #006000 !important;
+}
